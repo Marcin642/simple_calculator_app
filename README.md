@@ -1,16 +1,25 @@
-# calculator_app
+# simple_calculator_app
 
-A new Flutter project.
+Simple calculator app made in Flutter.
 
-## Getting Started
+State management solution - Riverpod
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## In-app videos
+<table>
+  <tr>
+    <td>Simple equation</td>
+    <td>Bad expression</td>
+    <td>AC / delete</td>
+  </tr>
+  <tr>
+    <td> 
+      <video src="https://user-images.githubusercontent.com/63061418/225698828-5b494fce-faa7-45f7-9af2-78ef93f247f3.mov"></video>
+    </td>
+     <td> 
+      <video src="https://user-images.githubusercontent.com/63061418/225699309-0d3e596c-a5fa-4574-989e-317902ee0757.mov"></video>
+    </td>
+    <td> 
+      <video src="https://user-images.githubusercontent.com/63061418/225700810-80594236-e5cd-435d-9d2f-eb18085aa028.mov"></video>
+    </td>
+  </tr>
+ </table>
